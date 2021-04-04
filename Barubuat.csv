@@ -1,0 +1,14 @@
+Jurusan,Kapasitas,Biaya,Sisa
+Biologi,24,10,No
+Fisika,25,12,Yes
+Olahraga,23,10,Yes
+Agama,40,16,Yes
+Olahraga,20,8,No
+Agama,35,11,No
+Biologi,38,,Yes
+Matematika,,18,Yes
+Fisika,12,19,No
+Agama,29,20,No
+Matematika,31,9,Yes
+Fisika,,8,No
+Biologi,22,,Yes
